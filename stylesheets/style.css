@@ -13,8 +13,14 @@ h3{font-weight: bold;
 }
 
 footer{
+position: absolute;
+
   background-color:#326872;
 
   color:white;
+  bottom:0;
+  left: 0;
+  right: 0;
+  
   margin-bottom: 1%;
 }
